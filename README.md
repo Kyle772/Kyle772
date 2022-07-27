@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love web development. Check out my stats they are legit.
+I love web development. All my best work is in private repos but check out my website for write ups. https://www.KyleDiggs.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 50%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyle772&count_private=true&show_icons=true&theme=tokyonight" />
