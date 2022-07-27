@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle772)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle772&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+I love web development
 
 - 🔭 I’m currently working on next gen ecommerce applications
 - 🌱 I’m currently learning devops
