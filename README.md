@@ -15,7 +15,7 @@ I love web development. All my best work is in private repos but check out my we
 &nbsp;
 - 🔭 I’m currently working on next gen ecommerce applications
 - 🌱 I’m currently learning devops
-- 🤔 I’m looking for help with finding work cause I'm only good at development
+- 🤔 I’m looking for help with finding work cause I'm best at development and design
 - 💬 Ask me about react, typescript, strapi, python, and design patterns.
 - 💬 Ask my opinion on Wix, WordPress, Webflow, squarespace, and other website creation apps (I've tried most of them for market research)
 - 📫 How to reach me: Contact@KyleDiggs.com
