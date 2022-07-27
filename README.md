@@ -3,10 +3,10 @@
 I love web development. Check out my stats they are legit.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" styles="max-width: 50% !important" src="https://github-readme-stats.vercel.app/api?username=kyle772&count_private=true&show_icons=true" />
+  <img align="center" style="max-width: 50% !important" src="https://github-readme-stats.vercel.app/api?username=kyle772&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" styles="max-width: 50% !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle772&layout=compact&langs_count=8" />
+  <img align="center" style="max-width: 50% !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle772&layout=compact&langs_count=8" />
 </a>
 
 
