@@ -6,7 +6,7 @@ I love web development. Check out my stats they are legit.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyle772&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle772" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle772&layout=compact" />
 </a>
 
 - 🔭 I’m currently working on next gen ecommerce applications
