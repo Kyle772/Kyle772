@@ -4,6 +4,8 @@
 
 I love web development
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle772)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on next gen ecommerce applications
 - 🌱 I’m currently learning devops
 - 🤔 I’m looking for help with finding work cause I'm only good at development
