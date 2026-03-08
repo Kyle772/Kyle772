@@ -13,8 +13,8 @@ I love web development. All my best work is in private repos but check out my we
 </a>
 
 &nbsp;
-- 🔭 I’m currently working on next gen ecommerce applications
-- 🌱 I’m currently learning devops
-- 💬 Ask me about react, typescript, strapi, python, and design patterns.
-- 💬 Ask my opinion on Wix, WordPress, Webflow, squarespace, and other website creation apps (I've tried most of them for market research)
+- 🔭 I’m currently working on: eCommerce and web3 applications.
+- 🌱 I’m currently learning: that people love to distract themselves with AI.
+- 💬 Ask me about: react, typescript, strapi, python, and design patterns.
+- 💬 Ask my opinion on: Wix, WordPress, Webflow, squarespace, and other website creation apps. (I've tried most of them for market research)
 - 📫 How to reach me: Contact@KyleDiggs.com
