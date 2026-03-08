@@ -9,7 +9,7 @@ I love web development. All my best work is in private repos but check out my we
 </a>
 <br /><br />
 <a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 50%;">
-  <img align="center" src="https://github-stats-git-main-kyle772.vercel.app/api/top-langs/?username=kyle772&layout=compact&langs_count=8&theme=tokyonight&hide=html,tcl,javascript,java,python" />
+  <img align="center" src="https://github-stats-git-main-kyle772.vercel.app/api/top-langs/?username=kyle772&layout=compact&langs_count=8&theme=tokyonight&hide=html,tcl,javascript,java" />
 </a>
 
 &nbsp;
